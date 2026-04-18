@@ -24,4 +24,4 @@ I work at the intersection of **medical imaging, machine learning, and clinical 
 
 ### Links
 
-[Flinders University](https://www.flinders.edu.au/people/minhson.to) · [Google Scholar](https://scholar.google.com/citations?user=NIc4qPsAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/son-to/) · [Email](mailto:minhson.to@gmail.com)
+[Flinders University](https://www.flinders.edu.au/people/minhson.to) · [Google Scholar](https://scholar.google.com/citations?user=NIc4qPsAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/son-to/) · [Email](mailto:minhson.to@flinders.edu.au)
