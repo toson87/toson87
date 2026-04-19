@@ -16,9 +16,13 @@ I work at the intersection of **medical imaging, machine learning, and clinical 
 
 ---
 
-### Featured Project
+### Projects
 
-**[dicom-anonymizer](https://github.com/toson87/dicom-anonymizer)** — Browser-based DICOM de-identification tool. 100% client-side, no data leaves the browser. Built with React 19, TypeScript, and Vite.
+**[dicom-anonymizer](https://github.com/toson87/dicom-anonymizer)** — Browser-based DICOM de-identification tool. 100% client-side, no data leaves the browser.
+
+**[dicom-converter](https://github.com/toson87/dicom-converter)** — Browser-based DICOM to NIfTI converter powered by dcm2niix WASM. 100% client-side.
+
+**[dicom-suv-from-pet](https://github.com/toson87/dicom-suv-from-pet)** — Browser-based PET SUV calculator (SUVbw/bsa/lbm). 100% client-side.
 
 ---
 
